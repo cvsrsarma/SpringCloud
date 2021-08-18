@@ -1,0 +1,1787 @@
+!SESSION 2021-08-11 07:53:08.736 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file C:\my_folder\MicroServcie_UseCase\.metadata\.bak_0.log
+Created Time: 2021-08-11 09:57:49.265
+
+!ENTRY Activator 1 0 2021-08-11 09:57:49.266
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-11 09:57:49.267
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-11 09:57:49.340
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-11 09:57:51.130
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-11 09:57:51.132
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-11 09:57:51.133
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-11 09:57:51.137
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-11 09:57:51.138
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-11 16:54:11.856
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-11 16:54:11.858
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-11 16:54:11.863
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-11 16:54:11.871
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-11 16:54:11.872
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-11 16:59:20.879
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-11 16:59:20.881
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-11 16:59:20.883
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-11 16:59:20.884
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-11 16:59:20.896
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+!SESSION 2021-08-12 13:14:48.824 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-08-12 13:14:56.144
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-08-12 13:15:10.234
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-12 13:15:10.234
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6e617c0e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@9a07409,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:21.099
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:21.101
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1cfb59e[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:21.129
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:21.590
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-12 13:15:25.083
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\RAMACHINTA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-08-12 13:15:37.543
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:15:37.545
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:15:37.547
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:15:37.549
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:15:37.551
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:38.906
+!MESSAGE Boot LS startup time from start to initialized: 17742ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.144
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XSKJkesyisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.150
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.154
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.156
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.157
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XSKJkesy => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.158
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.472
+!MESSAGE classpath=174 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.486
+!MESSAGE buffering callback sts4.classpath.XSKJkesy Mobile-api-ms false 174
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.488
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.503
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.608
+!MESSAGE buffering callback sts4.classpath.XSKJkesy Mobile-api-ms-Eureka-AccountService false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.610
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.639
+!MESSAGE classpath=137 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.648
+!MESSAGE buffering callback sts4.classpath.XSKJkesy Mobile-api-ms-Eureka-discovery-service false 137
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.650
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.693
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.701
+!MESSAGE buffering callback sts4.classpath.XSKJkesy Mobile-api-ms-Eureka-services false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.702
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.714
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.770
+!MESSAGE buffering callback sts4.classpath.XSKJkesy Mobile-api-ms-Spring-api-Gateway-Service false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:40.771
+!MESSAGE executing callback sts4.classpath.XSKJkesy 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-12 13:15:42.954
+!MESSAGE executing callback sts4.classpath.XSKJkesy FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-08-12 13:15:42.957
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-08-12 13:15:52.846
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:15:52.847
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:15:52.850
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:15:52.861
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:15:52.869
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.316
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.318
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.324
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.341
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.359
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.676
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.699
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.725
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.752
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:11.831
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:12.359
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:12.359
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:12.367
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:12.374
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:12.380
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:13.709
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:13.713
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:13.720
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:13.725
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:13.732
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:14.334
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:14.341
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:14.360
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:14.383
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:14.389
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.089
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.090
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.093
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.100
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.109
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.402
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.419
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.477
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.508
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:16.607
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:17.880
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:17.934
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:17.956
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:17.968
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:18.038
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:18.272
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:18.347
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:18.447
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:18.491
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:18.505
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:19.020
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:19.022
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:19.023
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:19.039
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:19.041
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:20.737
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:20.739
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:20.744
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:20.747
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-12 13:16:20.750
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY org.eclipse.jface 2 0 2021-08-12 13:38:46.462
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-12 13:38:46.463
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3995edf5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5f36c928,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-08-15 14:27:26.093
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:150)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-08-15 14:34:03.755
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:03.756
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:03.757
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:03.758
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:04.159
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:05.987
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:06.000
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:06.073
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:06.078
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:34:06.384
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:35.299
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:35.300
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:35.301
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:35.305
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:35.306
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:36.065
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:36.066
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:36.070
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:36.074
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:36.076
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:37.930
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:37.940
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:37.944
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:37.947
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:37.952
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:38.381
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:38.385
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:38.393
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:38.401
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:38.403
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.335
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.336
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.337
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.339
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.340
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.600
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.600
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.601
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.611
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:39.738
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.275
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.290
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.296
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.344
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.345
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.449
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.621
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.622
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.626
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:40.649
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:41.052
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:43.968
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:43.970
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:43.973
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:43.976
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:43.978
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.344
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.345
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.346
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.346
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.351
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.875
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.878
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.879
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.881
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:44.884
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.179
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.180
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.184
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.189
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.192
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.501
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.502
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.503
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.505
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.513
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.870
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.872
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.873
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.877
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:45.881
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.047
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.067
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.096
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.147
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.203
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.298
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.300
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.304
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.308
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:46.412
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:49.691
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:49.692
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:49.693
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:49.695
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:49.698
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.001
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.002
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.004
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.006
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.008
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.243
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.244
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.248
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.257
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.299
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.414
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.416
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.420
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.424
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.488
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.935
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.936
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.939
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.940
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:50.942
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:51.243
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:51.244
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:51.245
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:51.246
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:51.248
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.327
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.329
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.331
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.338
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.342
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.583
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.584
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.589
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.592
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.615
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.807
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.809
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.810
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.811
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:52.812
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.083
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.089
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.092
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.093
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.095
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.357
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.358
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.360
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.361
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.362
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.674
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.675
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.676
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.679
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:55.682
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:58.807
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:58.809
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:58.811
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:58.814
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:35:58.818
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:49.065
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:49.067
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:49.068
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:49.083
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:49.087
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:55.967
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:55.973
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:55.980
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:55.985
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:55.990
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.176
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.177
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.178
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.179
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.183
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.789
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.791
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.793
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.795
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:36:57.797
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:00.236
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:00.237
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:00.240
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:00.243
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:00.244
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.053
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.056
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.060
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.062
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.065
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.327
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.334
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.338
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.339
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.399
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.574
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.575
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.579
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.579
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.580
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.787
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.791
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.829
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.851
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:03.996
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:06.880
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:06.888
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:06.892
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:06.894
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:06.895
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:07.210
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:07.212
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:07.216
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:07.218
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:07.221
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.689
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.690
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.691
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.691
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.693
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.922
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.923
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.924
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.936
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:17.957
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.149
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.154
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.155
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.159
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.167
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.380
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.381
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.383
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.395
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:18.422
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.215
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.216
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.229
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.232
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.233
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.339
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.436
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.445
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.455
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:19.484
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:21.507
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:21.508
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:21.509
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:21.511
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:21.512
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:59.395
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:59.396
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:59.396
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:59.398
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:37:59.403
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:38:03.338
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:38:03.362
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:38:03.415
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:38:03.418
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:38:06.509
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-15 14:38:25.384
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-15 14:41:20.331
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:41:20.345
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:41:20.416
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:41:20.418
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:41:20.419
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.136
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.140
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.141
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.141
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.142
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.825
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.836
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.885
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:18.909
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 14:46:19.334
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:16.648
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:16.650
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:16.651
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:16.652
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:16.653
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:21.184
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:21.240
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:21.245
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:21.249
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:21.428
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:21.428
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:21.429
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:21.432
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:23.666
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.043
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.047
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.048
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.050
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.050
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.760
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.764
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.777
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.804
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:27.806
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:48.323
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:48.324
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:48.328
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:48.329
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:35:48.334
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.120
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.121
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.122
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.124
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.125
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.356
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.357
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.362
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.363
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:36:30.432
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:23.857
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:23.857
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:23.858
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:23.861
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:23.863
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:30.617
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:30.619
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:30.625
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:30.629
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:30.630
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.516
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.517
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.518
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.519
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.522
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.723
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.738
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.756
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.757
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:33.758
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.229
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.230
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.235
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.236
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.241
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.742
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.743
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.744
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.747
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:38.752
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:39.932
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:39.932
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:39.934
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:39.935
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:39.938
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:40.597
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:40.598
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:40.599
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:40.601
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:37:40.602
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.285
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.286
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.287
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.292
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.296
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.501
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.502
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.520
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.527
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 16:38:12.602
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:14.972
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:14.975
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:14.976
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:14.977
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:15.059
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:19.151
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:19.152
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:19.160
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:19.172
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:02:21.649
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:42.767
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:42.768
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:42.770
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:42.771
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:42.772
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:51.089
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-15 18:03:51.154
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-08-15 18:03:51.165
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:51.170
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:51.179
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:51.215
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-15 18:03:51.216
+!MESSAGE classpath=118 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-15 18:03:51.224
+!MESSAGE buffering callback sts4.classpath.XSKJkesy Mobile-api-ms-Eureka-services false 118
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-15 18:03:51.225
+!MESSAGE executing callback sts4.classpath.XSKJkesy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-15 18:03:51.443
+!MESSAGE executing callback sts4.classpath.XSKJkesy SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-15 18:03:51.984
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:52.137
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:52.156
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:52.184
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:52.245
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:54.051
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:54.056
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:54.061
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:54.064
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:03:54.067
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:14.940
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:14.941
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:14.942
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:14.943
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:14.944
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:16.333
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:16.343
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:16.423
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:16.430
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:16.649
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:57.845
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:57.845
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:57.846
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:57.847
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:57.848
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:59.663
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:59.664
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:59.722
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:59.766
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:04:59.892
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:30.203
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:30.204
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:30.205
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:30.206
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:30.206
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:34.008
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:34.152
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:34.177
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:35.373
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:36.520
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:50.185
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:50.186
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:50.189
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:50.190
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:50.191
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:50.935
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:51.287
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:51.294
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:51.345
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:09:51.367
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:06.533
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:06.534
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:06.535
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:06.536
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:06.536
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:07.588
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-services'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:07.727
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Spring-api-Gateway-Service'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:07.739
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-AccountService'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:07.805
+!MESSAGE Has main method computation for project 'Mobile-api-ms'
+
+!ENTRY Activator 1 0 2021-08-15 18:10:07.812
+!MESSAGE Has main method computation for project 'Mobile-api-ms-Eureka-discovery-service'

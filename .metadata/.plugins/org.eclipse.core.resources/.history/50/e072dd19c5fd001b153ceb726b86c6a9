@@ -1,0 +1,5 @@
+package com.appsdeveloper.app.ws.eurekaservices.model;
+
+public class CreateUserRequestModel {
+
+}

@@ -1,0 +1,5 @@
+package com.appsdeveloper.app.ws.eurekaservices.api.ui.controller;
+
+public class UsersController {
+
+}

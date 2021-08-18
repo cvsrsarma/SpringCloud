@@ -1,0 +1,4 @@
+MOCK_FRAMEWORK=powermock
+TEST_PROJECT_POSTFIX=
+TEST_SOURCE_FOLDER_NAME=src/test/java
+eclipse.preferences.version=1

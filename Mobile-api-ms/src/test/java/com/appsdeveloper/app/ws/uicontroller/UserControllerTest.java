@@ -1,0 +1,138 @@
+package com.appsdeveloper.app.ws.uicontroller;
+
+import java.util.Map;
+import java.util.logging.Logger;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import org.junit.tools.configuration.base.MethodRef;
+import org.springframework.http.ResponseEntity;
+
+import com.appsdeveloper.app.ws.model.reqeust.UserDetailsReqeust;
+import com.appsdeveloper.app.ws.model.response.User;
+
+import lombok.Generated;
+
+@Generated()
+public class UserControllerTest {
+
+	@Generated()
+	private Logger logger = Logger.getLogger(UserControllerTest.class.toString());
+
+	@Before
+	public void setUp() throws Exception {
+
+	}
+
+	@BeforeClass
+	public static void setUpBeforeClass() throws Exception {
+
+	}
+
+	@After
+	public void tearDown() throws Exception {
+
+	}
+
+	@AfterClass
+	public static void tearDownAfterClass() throws Exception {
+
+	}
+
+	private UserController createTestSubject() {
+		return new UserController();
+	}
+
+	@MethodRef(name = "getUsers", signature = "(IIQString;)QResponseEntity<QMap<QString;QUser;>;>;")
+	@Test
+	public void testGetUsers() throws Exception {
+		UserController testSubject;
+		int page = 0;
+		int limit = 0;
+		String sort = "";
+		ResponseEntity<Map<String, User>> result;
+
+		// default test
+		testSubject = createTestSubject();
+		result = testSubject.getUsers(page, limit, sort);
+	}
+
+	@MethodRef(name = "getUser", signature = "(QString;)QResponseEntity<QUser;>;")
+	@Test
+	public void testGetUser() throws Exception {
+		UserController testSubject;
+		String userId = "";
+		ResponseEntity<User> result;
+
+		// default test
+		testSubject = createTestSubject();
+		result = testSubject.getUser(userId);
+	}
+
+	@MethodRef(name = "createUser", signature = "(QUserDetailsReqeust;)QResponseEntity<QUser;>;")
+	@Test
+	public void testCreateUser() throws Exception {
+		UserController testSubject;
+		UserDetailsReqeust userDetails = null;
+		ResponseEntity<User> result;
+
+		// default test
+		testSubject = createTestSubject();
+		result = testSubject.createUser(userDetails);
+	}
+
+	@MethodRef(name = "updateUser", signature = "(QUserDetailsReqeust;)QString;")
+	@Test
+	public void testUpdateUser() throws Exception {
+		UserController testSubject;
+		UserDetailsReqeust userDetails = null;
+		String result;
+
+		// default test
+		testSubject = createTestSubject();
+		result = testSubject.updateUser(userDetails);
+	}
+
+	@MethodRef(name = "deleteUser", signature = "(QString;)QString;")
+	@Test
+	public void testDeleteUser() throws Exception {
+		UserController testSubject;
+		String userId = "";
+		String result;
+
+		// default test
+		testSubject = createTestSubject();
+		result = testSubject.deleteUser(userId);
+	}
+
+	@MethodRef(name = "getNullPointer", signature = "(IIQString;)QResponseEntity<QUser;>;")
+	@Test
+	public void testGetNullPointer() throws Exception {
+		UserController testSubject;
+		int page = 0;
+		int limit = 0;
+		String sort = "";
+		ResponseEntity<User> result;
+
+		// default test
+		testSubject = createTestSubject();
+		result = testSubject.getNullPointer(page, limit, sort);
+	}
+
+	@MethodRef(name = "getUsersException", signature = "(IIQString;)QResponseEntity<QUser;>;")
+	@Test
+	public void testGetUsersException() throws Exception {
+		UserController testSubject;
+		int page = 0;
+		int limit = 0;
+		String sort = "";
+		ResponseEntity<User> result;
+
+		// default test
+		testSubject = createTestSubject();
+		result = testSubject.getUsersException(page, limit, sort);
+	}
+}

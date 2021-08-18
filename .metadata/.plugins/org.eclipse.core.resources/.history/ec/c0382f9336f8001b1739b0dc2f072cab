@@ -1,0 +1,13 @@
+package com.appsdeveloper.app.ws.eureka.account;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MobileApiMsEurekaAccountServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MobileApiMsEurekaAccountServiceApplication.class, args);
+	}
+
+}

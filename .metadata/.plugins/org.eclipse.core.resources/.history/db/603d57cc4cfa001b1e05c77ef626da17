@@ -1,0 +1,9 @@
+server.port:8040
+spring.application.name=api-gateway
+eureka.client.service-url.defaultZone=http://localhost:8010/eureka
+
+spring.cloud.gateway.discovery.locator.enabled=true
+spring.cloud.gateway.routes[0].id=user-status-check
+spring.cloud.gateway.routes[0].uri=lb://users-ws
+spring.cloud.gateway.routes[0].predicates[0]=Path=/users/stauts/check
+spring.cloud.gateway.routes[0].predicates[1]=Method=GET
