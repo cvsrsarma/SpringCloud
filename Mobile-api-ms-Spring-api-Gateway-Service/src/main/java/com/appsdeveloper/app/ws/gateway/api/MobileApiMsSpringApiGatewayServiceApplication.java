@@ -8,6 +8,7 @@ public class MobileApiMsSpringApiGatewayServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MobileApiMsSpringApiGatewayServiceApplication.class, args);
+		System.out.println("test");
 	}
 
 }
