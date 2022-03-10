@@ -35,6 +35,8 @@ public class StudentController {
 	@Autowired
 	StudentService studentService;
 	
+	public static String i="abc";
+	
 	
 	@GetMapping("/getAll")
 	public ResponseEntity<List<StudentRespose>> getAllStudents(){
