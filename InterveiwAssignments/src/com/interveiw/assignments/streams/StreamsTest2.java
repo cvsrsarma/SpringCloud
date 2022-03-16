@@ -2,6 +2,8 @@ package com.interveiw.assignments.streams;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
@@ -37,7 +39,7 @@ public class StreamsTest2 {
 		
 		List<List<Integer>> a1 = new ArrayList();
 		
-		a1.add(Arrays.asList(32,432,533,355,254,534));
+		a1.add(Arrays.asList(32,432,533,355,254,534,32));
 		a1.add(Arrays.asList(32,432,533,678,534));
 		a1.add(Arrays.asList(32,432,434,254,745));
 		a1.add(Arrays.asList(45,432,875,254,534));
@@ -47,8 +49,6 @@ public class StreamsTest2 {
 				.stream().collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 		
 		System.out.println(a2);
-		
-		
 		
 	}
 	
